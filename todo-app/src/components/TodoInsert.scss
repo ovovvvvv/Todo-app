@@ -30,6 +30,8 @@
     align-items: center;
     cursor: pointer;
     transition: 0.1s background ease-in;
+
+    // :hover는 요소가 마우스 커서 위에 올라가면 적용되는 스타일
     &:hover {
       background: #adb5bd;
     }
